@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eujahsohgh.manofdiary.com/sitemap.xml
